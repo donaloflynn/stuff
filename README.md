@@ -1,2 +1,2 @@
-# stuff
+# Stuff
 A very basic website
